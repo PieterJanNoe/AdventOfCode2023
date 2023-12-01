@@ -1,0 +1,12 @@
+C:\Users\PX6393\source\repos\AdventOfCode2023\AdventOfCode2023\bin\Debug\net6.0\AdventOfCode2023.deps.json
+C:\Users\PX6393\source\repos\AdventOfCode2023\AdventOfCode2023\bin\Debug\net6.0\AdventOfCode2023.dll
+C:\Users\PX6393\source\repos\AdventOfCode2023\AdventOfCode2023\bin\Debug\net6.0\AdventOfCode2023.pdb
+C:\Users\PX6393\source\repos\AdventOfCode2023\AdventOfCode2023\obj\Debug\net6.0\AdventOfCode2023.csproj.AssemblyReference.cache
+C:\Users\PX6393\source\repos\AdventOfCode2023\AdventOfCode2023\obj\Debug\net6.0\AdventOfCode2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PX6393\source\repos\AdventOfCode2023\AdventOfCode2023\obj\Debug\net6.0\AdventOfCode2023.AssemblyInfoInputs.cache
+C:\Users\PX6393\source\repos\AdventOfCode2023\AdventOfCode2023\obj\Debug\net6.0\AdventOfCode2023.AssemblyInfo.cs
+C:\Users\PX6393\source\repos\AdventOfCode2023\AdventOfCode2023\obj\Debug\net6.0\AdventOfCode2023.csproj.CoreCompileInputs.cache
+C:\Users\PX6393\source\repos\AdventOfCode2023\AdventOfCode2023\obj\Debug\net6.0\AdventOfCode2023.dll
+C:\Users\PX6393\source\repos\AdventOfCode2023\AdventOfCode2023\obj\Debug\net6.0\refint\AdventOfCode2023.dll
+C:\Users\PX6393\source\repos\AdventOfCode2023\AdventOfCode2023\obj\Debug\net6.0\AdventOfCode2023.pdb
+C:\Users\PX6393\source\repos\AdventOfCode2023\AdventOfCode2023\obj\Debug\net6.0\ref\AdventOfCode2023.dll
